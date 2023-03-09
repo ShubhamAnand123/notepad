@@ -24,7 +24,7 @@ const addnote =(text="")=>{
     note.classList.add("note");
     note.innerHTML=`
     <div class="tool">
-      <div class="hs" ><h3>SNEHA SHENOY</h3></div>
+      <div class="hs" ><h3>SNEHA SHENOY<span style='font-size:20px;'>&#127773;&#128077;&#9996;</span></h3></div>
       <div class="fp">
         <i class="trash fa-sharp fa-solid fa-trash"></i>
         <i class="save fa-sharp fa-solid fa-floppy-disk"></i>
